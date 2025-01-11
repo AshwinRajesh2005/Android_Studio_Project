@@ -68,6 +68,9 @@ Key Concepts:
 Understanding Activity life cycle in Android.
 Managing app resources during different states.
 
+![WhatsApp Image 2025-01-11 at 17 03 16_d28ca6b4](https://github.com/user-attachments/assets/1ce3e014-8ba1-49f6-bb66-4d75897191c8)
+![WhatsApp Image 2025-01-11 at 17 03 17_b53679ff](https://github.com/user-attachments/assets/f836cde2-6c75-4bb0-af01-d032fa060c78)
+
 3.) Calculator
 
 Overview
@@ -90,6 +93,9 @@ Key Concepts:
 Handling user input in Android.
 Implementing basic arithmetic operations.
 Using TextView and Button widgets.
+
+![WhatsApp Image 2025-01-11 at 17 03 53_646cbb1e](https://github.com/user-attachments/assets/7c1d1a9b-929f-42d3-8d50-cd91f5297264)
+
 
 4.) Notifications
 
@@ -115,6 +121,9 @@ Key Concepts:
 Sending notifications to users.
 Handling background notifications.
 Notification channels for newer Android versions.
+
+![WhatsApp Image 2025-01-11 at 17 04 44_b7b9818e](https://github.com/user-attachments/assets/1ba790c2-dcf8-49db-a42a-6b16f3745bb8)
+
 5.) Maps and Navigation
 
 Overview
@@ -137,3 +146,6 @@ Key Concepts:
 Google Maps integration in Android apps.
 Displaying locations and routes on a map.
 Using GoogleMap API to customize map behavior
+
+![WhatsApp Image 2025-01-11 at 17 04 43_ff9ca3cc](https://github.com/user-attachments/assets/53c3c3ed-1e71-4bb8-8f78-a67056abee4b)
+![WhatsApp Image 2025-01-11 at 17 04 43_1a87f475](https://github.com/user-attachments/assets/51943f06-e5e4-4258-8145-266bcadb534c)
