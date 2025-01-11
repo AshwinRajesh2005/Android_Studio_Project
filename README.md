@@ -38,6 +38,9 @@ Creating a new Android project.
 Using TextView to display text.
 Basic layout design with XML.
 
+![WhatsApp Image 2025-01-11 at 16 57 49_eb972d50](https://github.com/user-attachments/assets/eb3c1cf3-1857-4e2d-aad4-54234c4b1753)
+
+
 2.) Life Cycle of Android
 
 Overview
